@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
-    cout << "Hello World!!!" << endl;
+    cout << "Summa 1 + 1" << endl;
+    cout << 1+1 << endl;
     return 0;
 }
